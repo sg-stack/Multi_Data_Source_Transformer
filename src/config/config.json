@@ -1,0 +1,50 @@
+{
+    "fields": [
+
+        {
+            "path": "full_name"
+        },
+
+        {
+            "path": "primary_email",
+            "from": "emails[0]"
+        },
+
+        {
+            "path": "phone",
+            "from": "phones[0]"
+        },
+
+        {
+            "path": "city",
+            "from": "location.city"
+        },
+
+        {
+            "path": "country",
+            "from": "location.country"
+        },
+
+        {
+            "path": "skills",
+            "normalize": "canonical"
+        },
+
+        {
+            "path": "company",
+            "from": "experience[0].company"
+        },
+
+        {
+            "path": "designation",
+            "from": "experience[0].title"
+        }
+
+    ],
+
+    "include_confidence": true,
+
+    "include_provenance": true,
+
+    "on_missing": "null"
+}
