@@ -3,9 +3,6 @@ import os
 
 from src.parsers.resume_parser import ResumeParser
 from src.parsers.csv_parser import CSVParser
-# from src.parsers.github_parser import GitHubParser
-# from src.parsers.linkedin_parser import LinkedInParser
-
 from src.normalizers.normalizer import Normalizer
 from src.merger.merger import Merger
 from src.confidence.confidence_calculator import ConfidenceCalculator
@@ -54,9 +51,8 @@ def main():
         parsed_candidates.extend(
             csv_candidates
         )
-
-
-
+    
+    print("Parsing completed")
     ###########################################################
     # Normalize
     ###########################################################
@@ -73,6 +69,7 @@ def main():
 
         )
 
+    print("Parsed Data Normalized")
     ###########################################################
     # Merge
     ###########################################################
@@ -83,6 +80,8 @@ def main():
         normalized_candidates
     )
 
+    print("Merged operation done successfully")
+
     ###########################################################
     # Confidence
     ###########################################################
@@ -91,6 +90,7 @@ def main():
         canonical_candidate
     )
 
+    print("Confidence Score Calculation Completed")
     ###########################################################
     # Provenance
     ###########################################################
@@ -100,23 +100,25 @@ def main():
         normalized_candidates,
     )
 
+    print("Provenance have been tracked")
     ###########################################################
     # Projection
     ###########################################################
 
     projector = Projector(
-        config_path
+        "src/config/name_email_config.json"
     )
 
     final_output = projector.project(
 
         canonical_candidate,
-
         confidence,
 
         provenance,
 
     )
+
+    print("Configured with the requirement of the user")
 
     ###########################################################
     # Print
