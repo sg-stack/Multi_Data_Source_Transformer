@@ -111,7 +111,7 @@ git clone <repository_url>
 Move into the project
 
 ```bash
-cd candidate-transformer
+cd Multi_Data_Source_Transformer
 ```
 
 
