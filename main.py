@@ -106,7 +106,7 @@ def main():
     ###########################################################
 
     projector = Projector(
-        "src/config/name_email_config.json"
+        "src/config/config.json"
     )
 
     final_output = projector.project(

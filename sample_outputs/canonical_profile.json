@@ -1,4 +1,393 @@
 {
     "full_name": "Shrinivasan S G",
-    "email": "cheenusgs578@gmail.com"
+    "primary_email": "cheenusgs578@gmail.com",
+    "phone": "+917695843923",
+    "city": "Chennai",
+    "country": "IN",
+    "skills": [
+        "Api Security",
+        "Api Testing (Postman",
+        "Authentication",
+        "Aws (Ec2",
+        "Bootstrap",
+        "C",
+        "C++",
+        "Caching",
+        "Cassandra",
+        "Ci/Cd Pipelines",
+        "Clustering",
+        "Cnn",
+        "Css",
+        "Css3",
+        "Data Structures & Algorithms",
+        "Design Patterns",
+        "Django",
+        "Dl.",
+        "Docker",
+        "Error Handling",
+        "Express.Js",
+        "Flask",
+        "Git",
+        "Github",
+        "Html",
+        "Html5",
+        "Iam)",
+        "Java",
+        "JavaScript",
+        "Javascript (Es6+)",
+        "Junit)",
+        "Kubernetes",
+        "Load Balancing",
+        "Logging",
+        "Model Optimization",
+        "Mongodb",
+        "Mysql",
+        "Node.Js",
+        "Oop",
+        "Postgresql",
+        "Pytest",
+        "Python",
+        "React",
+        "Redis",
+        "Responsive Design",
+        "Restful Apis",
+        "Rnn",
+        "S3",
+        "Scalability",
+        "Spring Boot",
+        "Sql",
+        "Swagger)",
+        "Tailwind Css",
+        "Terraform",
+        "Transformers",
+        "Unit Testing (Jest"
+    ],
+    "company": "Prodigy Infotech Pvt.Ltd.",
+    "designation": "Software Development Intern",
+    "confidence": {
+        "full_name": 1.0,
+        "emails": 1.0,
+        "phones": 1.0,
+        "location": 1.0,
+        "headline": 1.0,
+        "skills": 1.0,
+        "experience": 1.0,
+        "education": 1.0,
+        "projects": 0.88,
+        "certifications": 1.0,
+        "links": 0.82,
+        "achievements": 0.94,
+        "profile_confidence": 0.97
+    },
+    "provenance": {
+        "full_name": "resume",
+        "emails": {
+            "cheenusgs578@gmail.com": [
+                "resume",
+                "csv"
+            ]
+        },
+        "phones": {
+            "+917695843923": [
+                "resume"
+            ],
+            "+917695883270": [
+                "csv"
+            ]
+        },
+        "location": {
+            "city": [
+                "resume"
+            ],
+            "region": [
+                "resume"
+            ],
+            "country": [
+                "resume"
+            ]
+        },
+        "headline": "resume",
+        "skills": {
+            "Api Security": [
+                "resume"
+            ],
+            "Api Testing (Postman": [
+                "resume"
+            ],
+            "Aws (Ec2": [
+                "resume"
+            ],
+            "Authentication": [
+                "resume"
+            ],
+            "Bootstrap": [
+                "resume"
+            ],
+            "C": [
+                "resume"
+            ],
+            "C++": [
+                "resume"
+            ],
+            "Ci/Cd Pipelines": [
+                "resume"
+            ],
+            "Cnn": [
+                "resume"
+            ],
+            "Css": [
+                "resume"
+            ],
+            "Css3": [
+                "resume"
+            ],
+            "Caching": [
+                "resume"
+            ],
+            "Cassandra": [
+                "resume"
+            ],
+            "Clustering": [
+                "resume"
+            ],
+            "Dl.": [
+                "resume"
+            ],
+            "Data Structures & Algorithms": [
+                "resume"
+            ],
+            "Design Patterns": [
+                "resume"
+            ],
+            "Django": [
+                "resume"
+            ],
+            "Docker": [
+                "resume"
+            ],
+            "Error Handling": [
+                "resume"
+            ],
+            "Express.Js": [
+                "resume"
+            ],
+            "Flask": [
+                "resume"
+            ],
+            "Git": [
+                "resume"
+            ],
+            "Github": [
+                "resume"
+            ],
+            "Html": [
+                "resume"
+            ],
+            "Html5": [
+                "resume"
+            ],
+            "Iam)": [
+                "resume"
+            ],
+            "Junit)": [
+                "resume"
+            ],
+            "Java": [
+                "resume"
+            ],
+            "JavaScript": [
+                "resume"
+            ],
+            "Javascript (Es6+)": [
+                "resume"
+            ],
+            "Kubernetes": [
+                "resume"
+            ],
+            "Load Balancing": [
+                "resume"
+            ],
+            "Logging": [
+                "resume"
+            ],
+            "Model Optimization": [
+                "resume"
+            ],
+            "Mongodb": [
+                "resume"
+            ],
+            "Mysql": [
+                "resume"
+            ],
+            "Node.Js": [
+                "resume"
+            ],
+            "Oop": [
+                "resume"
+            ],
+            "Postgresql": [
+                "resume"
+            ],
+            "Pytest": [
+                "resume"
+            ],
+            "Python": [
+                "resume"
+            ],
+            "Restful Apis": [
+                "resume"
+            ],
+            "Rnn": [
+                "resume"
+            ],
+            "React": [
+                "resume"
+            ],
+            "Redis": [
+                "resume"
+            ],
+            "Responsive Design": [
+                "resume"
+            ],
+            "S3": [
+                "resume"
+            ],
+            "Sql": [
+                "resume"
+            ],
+            "Scalability": [
+                "resume"
+            ],
+            "Spring Boot": [
+                "resume"
+            ],
+            "Swagger)": [
+                "resume"
+            ],
+            "Tailwind Css": [
+                "resume"
+            ],
+            "Terraform": [
+                "resume"
+            ],
+            "Transformers": [
+                "resume"
+            ],
+            "Unit Testing (Jest": [
+                "resume"
+            ]
+        },
+        "experience": [
+            {
+                "company": "Prodigy Infotech Pvt.Ltd.",
+                "title": "Software Development Intern",
+                "sources": [
+                    "resume"
+                ]
+            },
+            {
+                "company": "Chennai Institute of Technology",
+                "title": "Research Internship",
+                "sources": [
+                    "resume"
+                ]
+            },
+            {
+                "company": "CIT Chennai",
+                "title": "Student",
+                "sources": [
+                    "csv"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Chennai Institute of Technology",
+                "degree": "B.Tech. Artificial Intelligence and Data Science",
+                "sources": [
+                    "resume"
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "RAIL MADAD COMPLAINT SYSTEM",
+                "sources": [
+                    "resume"
+                ]
+            },
+            {
+                "title": "AI DRIVEN DISASTER MANAGEMENT",
+                "sources": [
+                    "resume"
+                ]
+            },
+            {
+                "title": "Unauthorized Billboard Detector",
+                "sources": [
+                    "resume"
+                ]
+            }
+        ],
+        "certifications": {
+            "AWS Cloud Practitioner(SAA CO2): Cloud Computing: AWS": [
+                "resume"
+            ],
+            "CCNA: Introduction to Networks: Cisco Networking Academy": [
+                "resume"
+            ],
+            "Cybersecurity Essentials: Cisco Networking Academy": [
+                "resume"
+            ],
+            "Networking Essentials: Cisco Networking Academy": [
+                "resume"
+            ],
+            "Database Management System: NPTEL: IIT-Kharagpur": [
+                "resume"
+            ],
+            "Cloud Computing: NPTEL: IIT-Kharagpur": [
+                "resume"
+            ],
+            "Parallel Computer Architecture: NPTEL: IIT-Kharagpur": [
+                "resume"
+            ],
+            "Reinforcement Learning: NPTEL: IIT-Kharagpur": [
+                "resume"
+            ],
+            "Python Essentials: Cisco Networking Academy": [
+                "resume"
+            ],
+            "MongoDB Basics: Credly": [
+                "resume"
+            ]
+        },
+        "links": [
+            {
+                "url": "https://github.com/sg-stack",
+                "sources": [
+                    "resume"
+                ]
+            },
+            {
+                "url": "https://linkedin.com/in/shrinivasan-s-g",
+                "sources": [
+                    "resume"
+                ]
+            }
+        ],
+        "achievements": {
+            "Selected for the ideation round of SIH 2024 demonstrating innovative problem-solving and technical feasibility skills.": [
+                "resume"
+            ],
+            "Actively engaged in the AICTE APF program and IIC Regional meet to foster entrepreneurship and innovation.": [
+                "resume"
+            ],
+            "Secured qualification for the Technova hackathon qualifier round by demonstrating rapid prototyping and coding skills.": [
+                "resume"
+            ],
+            "Advanced to Round 2 of TCS CodeVita securing a Global Rank of 3000 demonstrating exceptional algorithmic proficiency.": [
+                "resume"
+            ]
+        }
+    }
 }
