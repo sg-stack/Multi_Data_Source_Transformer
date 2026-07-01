@@ -315,9 +315,8 @@ class ResumeParser(BaseParser):
             for line in section.group(1).splitlines()
             if line.strip()
         ]
-
+        
         for line in lines:
-
             if "|" in line:
                 v=line.split(",")
                 projects.append({
